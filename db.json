@@ -1,1 +1,322 @@
-
+{
+	"results":[
+		{
+			"id":1,
+			"producto":"Alitas BBQ",
+			"categoria":"Alitas",
+			"descripcion":"12 trozos de alita de pollo bañadas en una deliciosa salsa BBQ, acompañada de vegetales",
+			"imagen":"../../assets/imgs/bbq.jpg",
+			"presentacion":"6 colombinas y 6 pasabocas, palitos de apio y zanahoria",
+			"precio":"$12.500"
+		},
+		{
+			"id":2,
+			"producto":"Alitas Buffalo",
+			"categoria":"Alitas",
+			"descripcion":"12 trozos de alita de pollo bañadas en una deliciosa salsa Buffalo, acompañada de vegetales",
+			"imagen":"../../assets/imgs/buffalo.jpg",
+			"presentacion":"6 colombinas y 6 pasabocas, palitos de apio y zanahoria",
+			"precio":"$12.500"
+		},
+		
+		{
+			"id":3,
+			"producto":"Alitas Miel-mostaza",
+			"categoria":"Alitas",
+			"descripcion":"12 trozos de alita de pollo bañadas en una deliciosa salsa Miel-mostaza, acompañada de vegetales",
+			"imagen":"../../assets/imgs/miel-mozta.jpg",
+			"presentacion":"6 colombinas y 6 pasabocas, palitos de apio y zanahoria",
+			"precio":"$12.500"
+		},
+		
+		{
+			"id":4,
+			"producto":"Alitas Maracuya",
+			"categoria":"Alitas",
+			"descripcion":"12 trozos de alita de pollo bañadas en una deliciosa salsa Maracuya, acompañada de vegetales",
+			"imagen":"../../assets/imgs/maracuya.jpg",
+			"presentacion":"6 colombinas y 6 pasabocas, palitos de apio y zanahoria",
+			"precio":"$12.500"
+		},
+		
+		{
+			"id":5,
+			"producto":"Alitas Agridulces",
+			"categoria":"Alitas",
+			"descripcion":"12 trozos de alita de pollo bañadas en una deliciosa salsa Agridulces, acompañada de vegetales",
+			"imagen":"../../assets/imgs/agridulces.jpg",
+			"presentacion":"6 colombinas y 6 pasabocas, palitos de apio y zanahoria",
+			"precio":"$12.500"
+		},
+		
+			{
+			"id":6,
+			"producto":" 1 Pollo Broaster",
+			"categoria":"Pollo",
+			"descripcion":"Delisioso y crocante pollo frito, preparado de la manera tradicional",
+			"imagen":"../../assets/imgs/pollo1.jpg",
+			"presentacion":"1 pollo broaster acompañado de 4 arepas, 4 papas y miel",
+			"precio":"$21.500"
+		},
+		
+			{
+			"id":7,
+			"producto":"1/2 Pollo Broaster",
+			"categoria":"Pollo",
+			"descripcion":"Delisioso y crocante pollo frito, preparado de la manera tradicional",
+			"imagen":"../../assets/imgs/pollo2.jpg",
+			"presentacion":"4 presas de pollo acompañado de 2 arepas, 2 papas y miel",
+			"precio":"$13.500"
+		},
+		
+			{
+			"id":8,
+			"producto":"1/4 Pollo Broaster",
+			"categoria":"Pollo",
+			"descripcion":"Delisioso y crocante pollo frito, preparado de la manera tradicional",
+			"imagen":"../../assets/imgs/pollo3.jpg",
+			"presentacion":"2 presas de pollo acompañado de 1 arepa, 1 papa y miel",
+			"precio":"$6.500"
+		},
+		
+		{
+			"id":9,
+			"producto":"Chuleta de Pollo",
+			"categoria":"Chuletas",
+			"descripcion":"Pechuga de pollo apanado tipo Broaster",
+			"imagen":"../../assets/imgs/chuletapollo.jpg",
+			"presentacion":"1 chuleta, papa a la francesa, arepa y trozos de platano amarillo",
+			"precio":"$6.800"
+		},
+		
+		{
+			"id":10,
+			"producto":"Chuleta de cerdo",
+			"categoria":"Chuletas",
+			"descripcion":"Filete de cerdo apanado tipo Broaster",
+			"imagen":"../../assets/imgs/chuletacerdo.jpg",
+			"presentacion":"1 chuleta, papa a la francesa, arepa y trozos de platano amarillo",
+			"precio":"$6.800"
+		},
+		
+		{
+			"id":11,
+			"producto":"Hamburguesa de Pollo",
+			"categoria":"Hamburguesa",
+			"descripcion":"Carne de pollo a la plancha para conservar sus nutrientes",
+			"imagen":"../../assets/imgs/hambupollo.jpg",
+			"presentacion":"Carne de pollo acompañado de jamon, tocineta, queso, lechuga, tomate, cebolla, pepinillos y salsa de la casa",
+			"precio":"$8.000"
+		},
+		
+		{
+			"id":12,
+			"producto":"Hamburguesa de costilla de cerdo",
+			"categoria":"Hamburguesa",
+			"descripcion":"Carne de costillas de cerdo preparada a la plancha para conservar propiedades",
+			"imagen":"../../assets/imgs/hambucerdo.jpg",
+			"presentacion":"Carne de costilla de cerdo acompañada de jamon, tocineta, queso, lechuga, tomate, cebolla, pepinillos y salsa de la casa",
+			"precio":"$8.000"
+		},
+		
+		{
+			"id":13,
+			"producto":"Hamburguesa de res",
+			"categoria":"Hamburguesa",
+			"descripcion":"Carne de res preparada a la plancha para conservar su jogosidad",
+			"imagen":"../../assets/imgs/hambures.jpg",
+			"presentacion":"Carne de res acompañada de jamon, tocineta, queso, lechuga, tomate, cebolla, pepinillos y salsa de la casa",
+			"precio":"$8.000"
+		},
+		
+		{
+			"id":14,
+			"producto":"Costillas BBQ",
+			"categoria":"Costillas",
+			"descripcion":"Costillas de cerdo bañadas en una exquisita salsa BBQ",
+			"imagen":"../../assets/imgs/costibbq.jpg",
+			"presentacion":"Costillas de cerdo acompañadas de papa en casquitos, trozos de platano amarillo y tomate",
+			"precio":"$8.000"
+		},
+		
+		{
+			"id":15,
+			"producto":"Costillas Buffalo",
+			"categoria":"Alitas",
+			"descripcion":"Costillas de cerdo bañadas en una exquisita salsa Buffalo",
+			"imagen":"../../assets/imgs/costibuffalo.jpg",
+			"presentacion":"Costillas de cerdo acompañadas de papa en casquitos, trozos de platano amarillo y tomate",
+			"precio":"$8.000"
+		},
+		
+		{
+			"id":16,
+			"producto":"Chorizos",
+			"categoria":"Chorizos",
+			"descripcion":"",
+			"imagen":"../../assets/imgs/chorizos.jpg",
+			"presentacion":"2 chorizos acompañados de papa salada, arepa, tomate y limon",
+			"precio":"$7.000"
+		},
+		
+		{
+			"id":17,
+			"producto":"Papas a la francesa",
+			"categoria":"Adisiones",
+			"descripcion":"Papas fritas perfectamente doradas",
+			"imagen":"../../assets/imgs/papas.jpg",
+			"presentacion":"Porcion de 150 gr de papa frita",
+			"precio":"$3.000"
+		},
+		
+		{
+			"id":18,
+			"producto":"Yucas frita",
+			"categoria":"Adisiones",
+			"descripcion":"Bastones de yuca frita",
+			"imagen":"../../assets/imgs/yuca.jpg",
+			"presentacion":"Porcion de 150 gr de yuca frita",
+			"precio":"$3.000"
+		},
+		
+		{
+			"id":19,
+			"producto":"Ensalada coleslaw 8Onz",
+			"categoria":"Adisiones",
+			"descripcion":"Ensalada de repollo dulce",
+			"imagen":"../../assets/imgs/coleslaw.jpg",
+			"presentacion":"Repollo finamente picado, acompañado de zanahoria y aderezos",
+			"precio":"$3.200"
+		},
+		
+		{
+			"id":20,
+			"producto":"Ensalada coleslaw 12Onz",
+			"categoria":"Adisiones",
+			"descripcion":"Ensalada de repollo dulce",
+			"imagen":"../../assets/imgs/coleslaw.jpg",
+			"presentacion":"Repollo finamente picado, acompañado de zanahoria y aderezos",
+			"precio":"$4.000"
+		},
+		
+		{
+			"id":21,
+			"producto":"Postre de Maracuya",
+			"categoria":"Postres",
+			"descripcion":"Postre casero con fruta natural",
+			"imagen":"../../assets/imgs/posmara.jpg",
+			"presentacion":"Postre tres leches con pulpa de fruta natural de Maracuya",
+			"precio":"$2.500"
+		},
+		
+		{
+			"id":22,
+			"producto":"Postre de Mora",
+			"categoria":"Postres",
+			"descripcion":"Postre casero con fruta natural",
+			"imagen":"../../assets/imgs/posmora.jpg",
+			"presentacion":"Postre tres leches con pulpa de fruta natural de Mora",
+			"precio":"$2.500"
+		},
+		
+		{
+			"id":23,
+			"producto":"Postre de limon",
+			"categoria":"Postres",
+			"descripcion":"Postre casero con fruta natural",
+			"imagen":"../../assets/imgs/poslimon.jpg",
+			"presentacion":"Postre tres leches con pulpa de fruta natural de Limon",
+			"precio":"$2.500"
+		},
+		
+		{
+			"id":24,
+			"producto":"Postre de Milo",
+			"categoria":"Postres",
+			"descripcion":"Postre casero elavorado a base de cafe",
+			"imagen":"../../assets/imgs/posmilo.jpg",
+			"presentacion":"Postre tres leches con Milo",
+			"precio":"$2.500"
+		},
+		
+		{
+			"id":25,
+			"producto":"Postre de Mango",
+			"categoria":"Postres",
+			"descripcion":"Postre casero con fruta natural",
+			"imagen":"../../assets/imgs/posmango.jpg",
+			"presentacion":"Postre tres leches con pulpa de fruta natural de Mango",
+			"precio":"$2.500"
+		}
+		
+		{
+			"id":26,
+			"producto":"Postre de cafe",
+			"categoria":"Postres",
+			"descripcion":"Postre casero elavorado a base de cafe",
+			"imagen":"../../assets/imgs/poscafe.jpg",
+			"presentacion":"Postre tres leches con sabor a cafe",
+			"precio":"$2.500"
+		},
+		
+		{
+			"id":27,
+			"producto":"Gaseosa 400ml",
+			"categoria":"Bebidas",
+			"descripcion":"Bebida gasificada sabores surtidos",
+			"imagen":"../../assets/imgs/posto400ml.jpg",
+			"presentacion":"Gaseosa de 400ml envase plastico",
+			"precio":"$2.500"
+		},
+		
+		{
+			"id":28,
+			"producto":"Jugos Hit 500ml",
+			"categoria":"Bebidas",
+			"descripcion":"Jugos hit sabores surtidos",
+			"imagen":"../../assets/imgs/hit.jpg",
+			"presentacion":"Jugos postobon de 500ml en envase plastico",
+			"precio":"$2.500"
+		},
+		
+		{
+			"id":29,
+			"producto":"Te Lipton",
+			"categoria":"Bebidas",
+			"descripcion":"Bebida a base de te sabor Limon o Maracuya",
+			"imagen":"../../assets/imgs/lipton.jpg",
+			"presentacion":"Tea de 500ml en envase plastico",
+			"precio":"$2.000"
+		},
+		
+		{
+			"id":30,
+			"producto":"Gaseosa 1.5",
+			"categoria":"Bebidas",
+			"descripcion":"Bebida gasificada sabores surtidos",
+			"imagen":"../../assets/imgs/posto1.5.jpg",
+			"presentacion":"Productos postobon 1.5 en envase plastico.",
+			"precio":"$4.000"
+		},
+		
+		{
+			"id":31,
+			"producto":"Bebida de Aloe Vera Okey",
+			"categoria":"Bebidas",
+			"descripcion":"Bebida natural de Aloe Vera",
+			"imagen":"../../assets/imgs/okey.jpg",
+			"presentacion":"Bebida natural con trozos de Aloe vera, te o chia, envase plastico se 300ml",
+			"precio":"$3.000"
+		},
+		
+		{
+			"id":32,
+			"producto":"Agua Splash",
+			"categoria":"Bebidas",
+			"descripcion":"Agua 100% Manizaleña",
+			"imagen":"../../assets/imgs/splash.jpg",
+			"presentacion":"Agua tratada 100% natural, manantiales Manizaleños en envase plastico de 500ml",
+			"precio":"$2.500"
+		}
+	]
+}
