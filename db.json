@@ -7,7 +7,7 @@
 			"descripcion":"12 trozos de alita de pollo bañadas en una deliciosa salsa BBQ, acompañada de vegetales",
 			"imagen":"../../assets/imgs/bbq.jpg",
 			"presentacion":"6 colombinas y 6 pasabocas, palitos de apio y zanahoria",
-			"precio":"$12.500"
+			"precio":"$13.500"
 		},
 		{
 			"id":2,
@@ -16,7 +16,7 @@
 			"descripcion":"12 trozos de alita de pollo bañadas en una deliciosa salsa Buffalo, acompañada de vegetales",
 			"imagen":"../../assets/imgs/buffalo.jpg",
 			"presentacion":"6 colombinas y 6 pasabocas, palitos de apio y zanahoria",
-			"precio":"$12.500"
+			"precio":"$13.500"
 		},
 		
 		{
@@ -26,7 +26,7 @@
 			"descripcion":"12 trozos de alita de pollo bañadas en una deliciosa salsa Miel-mostaza, acompañada de vegetales",
 			"imagen":"../../assets/imgs/miel-mozta.jpg",
 			"presentacion":"6 colombinas y 6 pasabocas, palitos de apio y zanahoria",
-			"precio":"$12.500"
+			"precio":"$13.500"
 		},
 		
 		{
@@ -36,7 +36,7 @@
 			"descripcion":"12 trozos de alita de pollo bañadas en una deliciosa salsa Maracuya, acompañada de vegetales",
 			"imagen":"../../assets/imgs/maracuya.jpg",
 			"presentacion":"6 colombinas y 6 pasabocas, palitos de apio y zanahoria",
-			"precio":"$12.500"
+			"precio":"$13.500"
 		},
 		
 		{
@@ -46,7 +46,7 @@
 			"descripcion":"12 trozos de alita de pollo bañadas en una deliciosa salsa Agridulces, acompañada de vegetales",
 			"imagen":"../../assets/imgs/agridulces.jpg",
 			"presentacion":"6 colombinas y 6 pasabocas, palitos de apio y zanahoria",
-			"precio":"$12.500"
+			"precio":"$13.500"
 		},
 		
 			{
