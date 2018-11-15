@@ -56,7 +56,7 @@
 			"descripcion":"Delisioso y crocante pollo frito, preparado de la manera tradicional",
 			"imagen":"../../assets/imgs/pollo1.jpg",
 			"presentacion":"1 pollo broaster acompañado de 4 arepas, 4 papas y miel",
-			"precio":"$21.500"
+			"precio":"$24.500"
 		},
 		
 			{
@@ -315,8 +315,8 @@
 			"categoria":"Bebidas",
 			"descripcion":"Agua 100% Manizaleña",
 			"imagen":"../../assets/imgs/splash.jpg",
-			"presentacion":"Agua tratada 100% natural, manantiales Manizaleños en envase plastico de 500ml",
-			"precio":"$2.500"
+			"presentacion":"Agua tratada 100% natural,de manantiales Manizaleños en envase plastico de 500ml",
+			"precio":"$2.000"
 		}
 	]
 }
